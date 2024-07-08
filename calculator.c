@@ -1,4 +1,4 @@
-// here is the code which is use of the switch statement and its role as a simple calculator:
+// here is the code demonstrate the use of the switch statement and its role as a simple calculator
 // using switch, case, break
 #include <stdio.h>
 int main() {
